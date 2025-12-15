@@ -66,7 +66,7 @@ Esta función indica si se han encontrado todas las parejas.
 **Resultado:** Devuelve True si matches == total_pairs, False en caso contrario.
 
 
-# Mejoras y funciones extras del codigo
+# Mejoras y Funciones Extras
 
 ## Musica
 
