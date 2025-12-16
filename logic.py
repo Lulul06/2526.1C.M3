@@ -181,3 +181,4 @@ def resolve_pending(game: GameState) -> Tuple[bool, bool]:
 def has_won(game: GameState) -> bool:
     """Indica si se han encontrado todas las parejas."""
     return game["matches"] == game["total_pairs"]
+    
